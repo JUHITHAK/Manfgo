@@ -1,1 +1,1 @@
-# Manfgo
+# Box Class
